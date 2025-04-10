@@ -77,4 +77,4 @@ print(ip)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE.md](https://github.com/64bit-lunarteam/LunarScan?tab=MIT-1-ov-file#)) file for details.
